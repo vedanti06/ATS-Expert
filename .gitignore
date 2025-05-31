@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.envrc
+*.env
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PDF/Images/Temp files
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
