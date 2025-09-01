@@ -86,6 +86,20 @@ The application now features:
 - **Visual Feedback**: Progress indicators and status messages
 - **Download Options**: Export analysis results for offline use
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
+*Professional gradient header, sidebar navigation, and main content area*
+
+### Job Description Input
+![Job Description Input](screenshots/job-description-input.png)
+*Clean job description input with example requirements and resume upload*
+
+### Analysis Results
+![Analysis Results](screenshots/analysis-results.png)
+*Match percentage calculation and detailed keyword analysis results*
+
 ## 🔧 Customization
 
 You can customize the application by:
