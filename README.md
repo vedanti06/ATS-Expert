@@ -89,7 +89,7 @@ The application now features:
 ## 📸 Screenshots
 
 ### Main Interface
-(screenshots/Screenshot (2).png)
+![Main Interface](screenshots/Screenshot%20(2).png)
 *Professional gradient header, sidebar navigation, and main content area*
 
 ### Job Description Input
