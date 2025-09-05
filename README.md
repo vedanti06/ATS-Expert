@@ -89,15 +89,15 @@ The application now features:
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/Screenshot%20(2).png)
+<img src="screenshots/Screenshot%20(2).png" alt="Main Interface" width="600"/>
 *Professional gradient header, sidebar navigation, and main content area*
 
 ### Job Description Input
-(screenshots/Screenshot (1).png)
+<img src="screenshots/Screenshot%20(1).png" alt="Main Interface" width="600"/>
 *Clean job description input with example requirements and resume upload*
 
 ### Analysis Results
-(screenshots/Screenshot (4).png)
+<img src="screenshots/Screenshot%20(4).png" alt="Main Interface" width="600"/>
 *Match percentage calculation and detailed keyword analysis results*
 
 ## 🔧 Customization
